@@ -1,1 +1,1 @@
-This folder contains all the assignments for the coursera course, [Algorithmsm, Part 1](https://www.coursera.org/learn/algorithms-part1)
+This folder contains all the assignments for the Coursera course, [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
